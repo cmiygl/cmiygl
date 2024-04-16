@@ -1,4 +1,17 @@
-<p align="center">
-<img src="https://64.media.tumblr.com/8d112238a831ef78668d507c8e850889/cb15d506a0c3fc6f-c6/s100x200/29b800cf24f6ec12304b325bec9529ccd9bb6b53.gifv"/>
+<p align="left">
+$\text{\color{#703B0A}{"⠀from⠀my⠀perch ,⠀i've⠀overlooked}}$
 </p>
- <p align="center">  </p>
+<p align="left">
+$\text{\color{#894408}{this⠀land⠀for⠀an⠀eternity.}}$
+</p>
+<p align="center">
+  <img src="https://file.garden/ZeZN8xo9KEiz9eZG/cmiygl" width="400">
+</p>
+<p align="right">
+$\text{\color{#AE5609}{we⠀remain⠀trapped⠀in⠀place ,}}$
+</p>
+<p align="right">
+$\text{\color{#E5710A}{and⠀yet⠀can⠀never⠀stop⠀moving. "}}$
+</p>
+
+
